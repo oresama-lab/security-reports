@@ -1,5 +1,7 @@
 # List of Annual Security Reports
 
+This is a list of annual security reports published by IT vendors.
+
 ## Microsoft
 
 A software manufacturer founded in 1975 by Bill Gates and Paul Allen, best known as the developer of the Windows operating system.
