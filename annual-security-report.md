@@ -80,6 +80,8 @@ Red Canary is a security vendor that deals with EDR products.
 
 ### Threat Detection Report
 
+Language: *English*
+
 Red Canary provides threat reports based on ATT&CK techniques.
 
 - [Threat Detection Report 2021](https://redcanary.com/threat-detection-report/)
