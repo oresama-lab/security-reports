@@ -71,3 +71,17 @@ The Microsoft Digital Defense Report is an annual security report that covers cy
 - [Microsoft Digital Defense Report 2020](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWxPuf) published in 2020-09
 
 ---
+
+# R
+
+## Red Canary
+
+Red Canary is a security vendor that deals with EDR products.
+
+### Threat Detection Report
+
+Red Canary provides threat reports based on ATT&CK techniques.
+
+- [Threat Detection Report 2021](https://redcanary.com/threat-detection-report/)
+
+---
