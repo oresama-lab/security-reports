@@ -12,3 +12,7 @@ The Microsoft Digital Defense Report is an annual security report that covers cy
 
 - [Microsoft Digital Defense Report 2021](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWMFIi) published in 2021-10
 - [Microsoft Digital Defense Report 2020](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWxPuf) published in 2020-09
+
+## IPA
+
+The Information-technology Promotion Agency (IPA) is an independent administrative agency established to support Japan's national IT strategy in terms of technology and human resources. They collects vulnerability information and publishes various reports on security.
